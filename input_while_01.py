@@ -1,7 +1,7 @@
 """
 Sana 06:03:26 yil 01:01pm
 
-Ustoz: Anvar Narzullayev 
+Ustoz: Anvar Narzullayev
 
 Mazvu: Input va While sikli
 
@@ -145,5 +145,8 @@ age = int(age)
 user_data = f"Ismingiz: {name.title()},\nYoshingiz: {age}"
 
 print(user_data)
+
+
+
 
         
