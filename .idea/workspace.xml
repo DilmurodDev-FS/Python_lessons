@@ -90,6 +90,7 @@
       <workItem from="1775012725261" duration="2131000" />
       <workItem from="1775050464483" duration="1209000" />
       <workItem from="1775139091138" duration="614000" />
+      <workItem from="1775285471025" duration="385000" />
     </task>
     <servers />
   </component>
@@ -99,6 +100,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_lessons$input_while.coverage" NAME="input_while Coverage Results" MODIFIED="1775012927923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_lessons$dictionary1.coverage" NAME="dictionary1 Coverage Results" MODIFIED="1775008955600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_lessons$input_while_01.coverage" NAME="input_while_01 Coverage Results" MODIFIED="1775014619419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_lessons$input_while_01.coverage" NAME="input_while_01 Coverage Results" MODIFIED="1775285499401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
