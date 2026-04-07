@@ -8,22 +8,13 @@
 """
 
 
-# def hello_world(name):
-#
-#     print(f"Assalomu aleykum {name.title()}")
-#
-# hello_world("Hasan")
-#
-# hello_world("Husan")
-#
-# hello_world("Akbar")
+def hello_world(name):
 
-def toliq_ism_yasa(ism="anvar", familiya="narzullayev"):
-    toliq_ism = F"{ism.title()} {familiya.title()}"
+    print(f"Assalomu aleykum {name.title()}")
 
-    return toliq_ism
+hello_world("Hasan")
 
+hello_world("Husan")
 
-talaba = toliq_ism_yasa('anvar', 'narzullayev')
+hello_world("Akbar")
 
-print(talaba)
