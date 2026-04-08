@@ -4,6 +4,10 @@ def toliq_ism_yasa(ism="anvar", familiya="narzullayev"):
     return toliq_ism
 
 
+
 talaba = toliq_ism_yasa('anvar', 'narzullayev')
 
 print(talaba)
+
+
+
