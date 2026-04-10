@@ -11,7 +11,7 @@ cars = ["bmw", "volsvagen", "mers", "damas", "neksiya"]
 
 for avto in cars:
 
-    
+
     if avto=="bmw":
 
         print(avto.upper())
