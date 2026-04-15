@@ -1,7 +1,6 @@
 
-print ("Assalomu Aleykum")
-
-print("Fs Repo")
+def salom_ber():
+    print ("Assalomu Aleykum")
 
 
 
