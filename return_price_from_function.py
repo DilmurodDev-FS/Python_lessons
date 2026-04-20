@@ -80,14 +80,17 @@ Mavzu: Funksiyadan qiymat qaytarish
 #         narhi = "Kelishiladi"
 #     print(f" {avto["rangi"]} {avto["model"]}, Narhi {narhi} ")
 
-def oraliq(min,max,step):
 
-    sonlar = []
+## mini mashq.
 
-    while min<max:
-        sonlar.append(min)
-        min += step
-
-    return sonlar
-
-print(oraliq(0,11, step=2))
+# def oraliq(min,max,step):
+#
+#     sonlar = []
+#
+#     while min<max:
+#         sonlar.append(min)
+#         min += step
+#
+#     return sonlar
+#
+# print(oraliq(0,11, step=2))
