@@ -16,5 +16,3 @@ hello_world("Hasan")
 
 hello_world("Husan")
 
-hello_world("Akbar")
-
