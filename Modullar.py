@@ -44,7 +44,7 @@ while True:
 
      break
 
-print("\Salonimizdagi avtolar:")
+print("\nSalonimizdagi avtolar:")
 
 for avto in avtolar:
 
