@@ -24,10 +24,26 @@ Mavzu: funksiyaga ro'yhat yuborish
 """ Sana 20:04:2026 yil
 Ustoz: Anvar Narzullayev """
 
-def funksiyaga(ruyxat_nomi):
+# def funksiyaga(ruyxat_nomi):
+#
+#     print(ruyxat_nomi)
+#
+# sonlar = [1,2,3,4,5]
 
-    print(ruyxat_nomi)
+def bahola(ismlar):
 
-sonlar = [1,2,3,4,5]
+    baholar = {}
 
-funksiyaga(sonlar)
+    for ism in ismlar:
+
+        baho = int(input(f"{ism.title()} bahosi: "))
+
+        baholar[ism] = baho
+
+    return baholar
+
+talabalar = ['dilmurod', 'otabek', 'sardor', 'xolbekjon']
+
+baholar = bahola(talabalar)
+
+print(baholar)
