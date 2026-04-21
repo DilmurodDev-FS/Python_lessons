@@ -1,3 +1,3 @@
-from if_elif_else import son_top as s
+kvadrat = lambda x, y: x**y
 
-s()
+print(kvadrat(3,2))
