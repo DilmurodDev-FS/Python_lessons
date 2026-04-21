@@ -1,7 +1,9 @@
-son = float(input("son kiriting: "))
+def son_top():
 
-ildiz = son**0.5
+    son = float(input("son kiriting: "))
 
-print("sonning ildizi", ildiz, "ga teng")
+    ildiz = son ** 0.5
+
+    print(f"{son} sonining ildizi", ildiz, "ga teng")
 
 # This file has been updated
